@@ -1,0 +1,72 @@
+.About {
+  margin-top: 10%;
+  float: left;
+  margin-left: 5%;
+}
+
+.Links {
+  text-decoration: inherit;
+  color: inherit;
+  width: 6%;
+  margin-top: 1.5%;
+  max-height: 1%;
+}
+
+.footer {
+  background-color: #343a40;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  height: 10%;
+  color: gray;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+}
+label {
+  padding: 1%;
+}
+
+.Home {
+  text-align: center;
+  margin-top: 3%;
+}
+.Cards {
+  justify-content: space-between;
+  display: flex;
+  margin: 0px 3%;
+  padding: 1% 27%;
+}
+
+.OtherIcon {
+  margin: 10% 10% 0% 10%;
+  float: right;
+}
+
+.FooterIcons {
+  display: flex;
+  margin-top: 1.2%;
+}
+div > h2 {
+  margin-top: 1%;
+}
+
+button:hover {
+  margin-top: 0px;
+  -moz-box-shadow: 0px 0px 4px 1px grey;
+  -webkit-box-shadow: 0px 0px 4px 1px grey;
+  box-shadow: 0px 0px 4px 1px grey;
+}
+.FormHead {
+  display: flex;
+}
+.FormMain {
+  width: 30%;
+  margin: 5% 30% 0% 10%;
+}
+.mb-3 {
+  font-weight: 700;
+}
+.MyButtonStyle{
+  margin: 2% 0% 0% 2%;
+}
